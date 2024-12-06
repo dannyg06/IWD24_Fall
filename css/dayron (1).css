@@ -8,13 +8,18 @@
         text-align: center;
     }
 
+    p {
+      margin-right: 150px;
+      margin-left: 80px;
+    }
+
     #container{
         text-align: center;
     }
 
-    #container2 {
-        text-align: center;
-    }
+  #navigation {
+    color: white;
+  }
 
     body {
         background-color: #0a0a08;
@@ -22,18 +27,6 @@
         color: white;
         min-height: calc(100vh - 402.06px);
     background-image: url(../Images/modern-gastronomic-background-z13r630gqpmwq4wj.jpg);
-    background-size: 1290px 2000px;
-    background-repeat: no-repeat;
-    background-position: center;
-        font-size: 150%;
-    }
-
-    .main_bkgd {
-        background-color: #0a0a08;
-        background-image: linear-gradient(red, yellow);
-        color: white;
-        min-height: calc(100vh - 402.06px);
-    background-image: url(../images/Concert\ background\ Template\ _\ PosterMyWall.png);
     background-size: 1290px 2000px;
     background-repeat: no-repeat;
     background-position: center;
@@ -56,7 +49,7 @@
         left: 0;
         bottom: 0;
         width: 100%;
-        background-color: rgb(173, 43, 3);
+        background-color: rgb(216, 159, 1);
         color: black;
         text-align: center;
       }
